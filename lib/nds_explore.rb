@@ -8,5 +8,5 @@ pp nds
 end
 
 def print_first_directors_movie_titles
-  pp nds
+  pp directors_databases
 end
